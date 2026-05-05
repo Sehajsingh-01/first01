@@ -585,12 +585,6 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <p align="center">
   Built with ❤️ and a little help from AI<br/>
   <strong>Notely</strong> — Your thoughts, amplified.
