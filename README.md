@@ -16,6 +16,13 @@
 
 ## 📸 What It Looks Like
 
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/a59fc59e-1319-4dd9-9bb8-a6e860a8c259" />
+<br>
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/0b0233c8-e627-4d8f-873a-5dc5b45bf610" />
+
+
+
+
 | | |
 |---|---|
 | **Home — Notes Grid** | Clean card layout with color-coded accents, search, and staggered entrance animations. |
